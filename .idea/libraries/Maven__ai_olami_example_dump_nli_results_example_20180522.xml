@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: ai.olami.example:dump-nli-results-example:20180522">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/ai/olami/example/dump-nli-results-example/20180522/dump-nli-results-example-20180522.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/ai/olami/example/dump-nli-results-example/20180522/dump-nli-results-example-20180522-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/ai/olami/example/dump-nli-results-example/20180522/dump-nli-results-example-20180522-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,124 @@
+2019-06-30 07:52:41.840 | W | Thread-0 | chatapi-wechat | 停止监听信息：1101
+2019-06-30 07:52:41.841 | E | Thread-0 | chatapi-wechat | 微信用户：加载中
+2019-06-30 07:52:41.843 | E | Thread-0 | chatapi-wechat | Cookie信息：
+	过期时间：2029-06-27 07:36:52，键：webwx_auth_ticket，值：CIsBEP78qagDGoABz0N1/9FLEg6uC6kIyCTsmKw27k0+jYHuxEjkr+EEwrFQDYe1DpelzPTaj1x8+gyOyqIWrQaCgvvzBnaq4brOIMT/fjnSL2OjuYaMVl02ceYSu0vwHmkfmZ47Rwb5J6VXhiFNyFYCert6Is+7+A26kpIWqkHkkT/IXSLPXuqAAZc=
+	过期时间：2029-06-27 07:36:52，键：webwxuvid，值：e35a77e31b534c7b2a80ca0abaa537f3b27b77537b5bc82b5f98c434760ffe7fde9ed9023c9b8c3077f8d71f066cf4c1
+	过期时间：2019-06-30 19:36:52，键：mm_lang，值：zh_CN
+	过期时间：2019-06-30 19:37:01，键：wxloadtime，值：1561851413_expired
+	过期时间：2019-06-30 19:41:01，键：webwx_data_ticket，值：gSdinJP4RSuDzjafbw+I2bM0
+	过期时间：2019-06-30 19:41:01，键：wxsid，值：mem0mNa79NReDaKP
+	过期时间：2019-07-03 07:41:01，键：wxuin，值：2830777780
+	过期时间：2019-06-30 19:41:01，键：wxpluginkey，值：1561847642
+2019-06-30 07:52:41.844 | E | Thread-0 | chatapi-wechat | 登录信息：
+	host：wx.qq.com
+	uin：2830777780
+	sid：mem0mNa79NReDaKP
+	dataTicket：null
+	uuid：YadbpXoQng==
+	skey：@crypt_cea445ac_f71875220c34cb4bc01f67d70ebd0057
+	passticket：iSbBK%2B1ys73nHdtvXJkgK%2BtgwUBY91RoFRJbaDSVxedIb0iDalki367eQ0eEz6gb
+	synckey：1_673936386|2_673936778|3_673936298|11_673936721|201_1561851661|203_1561850874|1000_1561847642|1001_1561847715
+	syncCheckKey：1_673936386|2_673936778|3_673936298|11_673936721|201_1561851661|203_1561850874|1000_1561847642|1001_1561847715
+2019-06-30 07:53:53.815 | W | Thread-0 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.service.impl.SpringServiceImpl.getBean(SpringServiceImpl.java:39)
+xin.zhuyao.wechat_bot_public.WeChatDemo$1.onMessage(WeChatDemo.java:51)
+xin.zhuyao.wechat_bot_public.WeChatClient.handleMessage(WeChatClient.java:112)
+xin.zhuyao.wechat_bot_public.WeChatClient.access$1000(WeChatClient.java:27)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:930)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 07:54:15.185 | W | Thread-0 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.service.impl.SpringServiceImpl.getBean(SpringServiceImpl.java:39)
+xin.zhuyao.wechat_bot_public.WeChatDemo$1.onMessage(WeChatDemo.java:51)
+xin.zhuyao.wechat_bot_public.WeChatClient.handleMessage(WeChatClient.java:112)
+xin.zhuyao.wechat_bot_public.WeChatClient.access$1000(WeChatClient.java:27)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:930)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 07:54:33.080 | W | Thread-0 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.service.impl.SpringServiceImpl.getBean(SpringServiceImpl.java:39)
+xin.zhuyao.wechat_bot_public.WeChatDemo$1.onMessage(WeChatDemo.java:51)
+xin.zhuyao.wechat_bot_public.WeChatClient.handleMessage(WeChatClient.java:112)
+xin.zhuyao.wechat_bot_public.WeChatClient.access$1000(WeChatClient.java:27)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:930)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 07:54:51.533 | W | Thread-0 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.service.impl.SpringServiceImpl.getBean(SpringServiceImpl.java:39)
+xin.zhuyao.wechat_bot_public.WeChatDemo$1.onMessage(WeChatDemo.java:51)
+xin.zhuyao.wechat_bot_public.WeChatClient.handleMessage(WeChatClient.java:112)
+xin.zhuyao.wechat_bot_public.WeChatClient.access$1000(WeChatClient.java:27)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:930)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 07:55:09.811 | W | Thread-0 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.service.impl.SpringServiceImpl.getBean(SpringServiceImpl.java:39)
+xin.zhuyao.wechat_bot_public.WeChatDemo$1.onMessage(WeChatDemo.java:51)
+xin.zhuyao.wechat_bot_public.WeChatClient.handleMessage(WeChatClient.java:112)
+xin.zhuyao.wechat_bot_public.WeChatClient.access$1000(WeChatClient.java:27)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:930)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 07:55:25.926 | W | Thread-0 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.service.impl.SpringServiceImpl.getBean(SpringServiceImpl.java:39)
+xin.zhuyao.wechat_bot_public.WeChatDemo$1.onMessage(WeChatDemo.java:51)
+xin.zhuyao.wechat_bot_public.WeChatClient.handleMessage(WeChatClient.java:112)
+xin.zhuyao.wechat_bot_public.WeChatClient.access$1000(WeChatClient.java:27)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:930)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 07:55:42.181 | W | Thread-0 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.service.impl.SpringServiceImpl.getBean(SpringServiceImpl.java:39)
+xin.zhuyao.wechat_bot_public.WeChatDemo$1.onMessage(WeChatDemo.java:51)
+xin.zhuyao.wechat_bot_public.WeChatClient.handleMessage(WeChatClient.java:112)
+xin.zhuyao.wechat_bot_public.WeChatClient.access$1000(WeChatClient.java:27)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:930)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 07:55:57.934 | W | Thread-0 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.service.impl.SpringServiceImpl.getBean(SpringServiceImpl.java:39)
+xin.zhuyao.wechat_bot_public.WeChatDemo$1.onMessage(WeChatDemo.java:51)
+xin.zhuyao.wechat_bot_public.WeChatClient.handleMessage(WeChatClient.java:112)
+xin.zhuyao.wechat_bot_public.WeChatClient.access$1000(WeChatClient.java:27)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:930)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 07:56:12.411 | W | Thread-0 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.service.impl.SpringServiceImpl.getBean(SpringServiceImpl.java:39)
+xin.zhuyao.wechat_bot_public.WeChatDemo$1.onMessage(WeChatDemo.java:51)
+xin.zhuyao.wechat_bot_public.WeChatClient.handleMessage(WeChatClient.java:112)
+xin.zhuyao.wechat_bot_public.WeChatClient.access$1000(WeChatClient.java:27)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:930)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 14:05:47.492 | W | Thread-12 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.WeChatApi.webwxsync(WeChatApi.java:203)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:881)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 14:43:39.850 | W | Thread-13 | chatapi-wechat | 监听消息异常
+null
+xin.zhuyao.wechat_bot_public.WeChatApi.webwxsync(WeChatApi.java:203)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.listen(WeChatClient.java:881)
+xin.zhuyao.wechat_bot_public.WeChatClient$WeChatThread.run(WeChatClient.java:747)
+2019-06-30 15:00:26.554 | W | Thread-13 | chatapi-wechat | 停止监听信息：1101
+2019-06-30 15:00:26.555 | E | Thread-13 | chatapi-wechat | 微信用户：加载中
+2019-06-30 15:00:26.557 | E | Thread-13 | chatapi-wechat | Cookie信息：
+	过期时间：2029-06-27 14:08:01，键：webwx_auth_ticket，值：CIsBEOT15dYHGoABl7Afe720Q4QEoIEH+EOxDqw27k0+jYHuxEjkr+EEwrFQDYe1DpelzPTaj1x8+gyOyqIWrQaCgvvzBnaq4brOIJllCd9DD9NAIl9HMRkLDFfMS9YF7KrLv/pEhu5JKxDDOR59sgaVoh1cLDCDPPxvAJIWqkHkkT/IXSLPXuqAAZc=
+	过期时间：2029-06-27 14:08:01，键：webwxuvid，值：e35a77e31b534c7b2a80ca0abaa537f3b27b77537b5bc82b5f98c434760ffe7f44161ac0429ff08dca4136a72f656a77
+	过期时间：2019-07-01 02:08:01，键：mm_lang，值：zh_CN
+	过期时间：2019-07-01 02:08:11，键：wxloadtime，值：1561874882_expired
+	过期时间：2019-07-01 02:52:39，键：webwx_data_ticket，值：gSeGL+Lfx2zL3cl2APH4Xk78
+	过期时间：2019-07-01 02:52:39，键：wxsid，值：PHNi6JN1TnoVvv4K
+	过期时间：2019-07-03 14:52:39，键：wxuin，值：2830777780
+	过期时间：2019-07-01 02:52:39，键：wxpluginkey，值：1561874404
+2019-06-30 15:00:26.557 | E | Thread-13 | chatapi-wechat | 登录信息：
+	host：wx.qq.com
+	uin：2830777780
+	sid：PHNi6JN1TnoVvv4K
+	dataTicket：null
+	uuid：Ad6eCKNO2Q==
+	skey：@crypt_cea445ac_c1e816c5690cb01aae79520fee7b1c12
+	passticket：IMumZV69aXZqUzSG%2Fa276UIh6n1ylU5%2FIKI0DN87JPnmDfkaPap2VFzEDx3V%2FExR
+	synckey：1_673944902|2_673947001|3_673945161|11_673946982|201_1561877560|203_1561877524|1000_1561874404|1001_1561871476
+	syncCheckKey：1_673944902|2_673947001|3_673945161|11_673946982|201_1561877560|203_1561877524|1000_1561874404|1001_1561871476
